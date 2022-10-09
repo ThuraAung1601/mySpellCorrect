@@ -2,7 +2,16 @@
 
 Author : Thura Aung
 
-References:
+
+## Citation
+### Notice that all of the data I have used are not my property and please check the Licenses
+
+If you want to use any data or dictionary under ./data folder in your research and we'd appreciate if you use the following three references:
+- [1] Khin War War Htike, Ye Kyaw Thu, Zuping Zhang, Win Pa Pa, Yoshinori Sagisaka and Naoto Iwahashi, "Comparison of Six POS Tagging Methods on 10K Sentences Myanmar Language (Burmese) POS Tagged Corpus", at 18th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2017), April 17~23, 2017, Budapest, Hungary.*
+- [2] Zar Zar Hlaing, Ye Kyaw Thu, Myat Myo Nwe Wai, Thepchai Supnithi, Ponrudee Netisopakul, "Myanmar POS resource extension effects on automatic tagging methods", In Proceedings of the 15th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2020), Nov 18 to Nov 20, 2020, Bangkok, Thailand, pp. 189-194.*
+- [3] myWord: Syllable, Word and Phrase Segmenter for Burmese, Ye Kyaw Thu, Sept 2021, GitHub Link: https://github.com/ye-kyaw-thu/myWord**
+
+## References:
 - [1] Vacláv Chvátal and David Sankoff. "Longest common subsequences of two random sequences", 1975. Journal of Applied Probability, Python module: ngram (https://pypi.org/project/ngram/).
 
 - [2] Wolf Garbe <wolf.garbe@faroo.com> Description: https://medium.com/@wolfgarbe/1000x-faster-spelling-correction-algorithm-2012-8701fcd87a5f .URL: https://github.com/wolfgarbe/symspell .Python module: symspellpy (https://github.com/mammothb/symspellpy)
