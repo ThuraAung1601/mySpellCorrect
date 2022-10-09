@@ -1,6 +1,6 @@
 # Word-level Spelling Correction for Burmese Language using Statistical Methods
 
-Author : Thura Aung
+**Author : Thura Aung**
 
 Spelling Correction mini-project ​လေး တစ်ခု စမ်း​ရေးကြည့်ထားပါတယ်။ Ruled-based မသွားဘဲ Statistical နည်း ၂ ခု ဖြစ်တဲ့ n-gram similarity[1] နဲ့ SymSpell[2] ကို အသုံးပြုထားပါတယ်။
 
@@ -19,6 +19,10 @@ SymSpell ကို မြန်မာစာ အတွက် သုံးတာ �
 ဥပမာ မှ ူးမတ်​​ငေနာပတိ -> မှူးမတ်​သေနာပတိ
 
 ဒါမျိုး​တွေ အတွက်က​တော့ တခြား deep learning approaches ​တွေ လိုဦးမယ် ထင်ပါတယ်။[7]
+
+mySpellCorrect ကို သုံးမယ်ဆိုရင်​တော့ Word အတွက် အသုံးပြုမယ်ဆို ပိုအဆင်​ပြေပါတယ်။ Sentence ​တွေကို Input အ​နေနဲ့ ထည့်မယ်ဆိုရင် Word level ဖြတ်ထား​ပေးဖို့ လိုပါတယ်။ 
+
+symspellpy library[2] မှာလည်း dictionaries ​ပေါ် အ​ခြေခံပြီး Word level ဖြတ်​ပေးတာ ပါပါတယ်။ mySpellCorrect.py မှာ Comment လုပ်ထားခဲ့ပါတယ်။ )
 
 ## Usage
 
