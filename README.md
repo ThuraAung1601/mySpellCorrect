@@ -1,4 +1,4 @@
-Word-level Spelling Correction for Burmese Language using Statistical Methods
+# Word-level Spelling Correction for Burmese Language using Statistical Methods
 
 Author : Thura Aung
 
