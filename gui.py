@@ -1,6 +1,6 @@
 import streamlit as st
 
-from mySpellCheck import mySymSpell,ngramSpell
+from mySpellCorrect import mySymSpell,ngramSpell
 
 st.title('Statistical Spelling Correction for Burmese language')
 text = st.text_area("Enter Text:", value='', height=None, max_chars=None, key=None)
