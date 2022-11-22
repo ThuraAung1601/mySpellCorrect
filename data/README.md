@@ -65,3 +65,4 @@ head -5 small_frequency_bigram_dictionary_mm.syl
 Ref :
 - [1] https://github.com/ye-kyaw-thu/myPOS
 - [2] https://github.com/ye-kyaw-thu/tools
+- [3] https://github.com/ye-kyaw-thu/myWord#Syllable-Segmentation-with-myWord-Segmentation-Tool
