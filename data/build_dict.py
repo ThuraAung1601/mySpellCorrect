@@ -17,6 +17,7 @@ import functools
 
 # line 20 21 22 23 are added by Thura 
 import argparse
+parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--input', type=str, help='input file', required=True)
 args = parser.parse_args()
 inputFile = getattr(args, 'input')
