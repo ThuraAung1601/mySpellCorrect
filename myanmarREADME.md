@@ -8,7 +8,7 @@ SymSpell ကို မြန်မာစာ အတွက် သုံးတာ �
 
 ခုက အက္ခရာအမှား ​တွေ ( ဥပမာ ကြက်ဉ ကို ကြက်ဥ ) ကို မှန်မှန် ပြင်​ပေးနိုင်တယ်။ သို့​သော် အိပ်မက် ကို​တော့ အိမ်မက်လို့ မသိဘူး။
 
-ဒါက ကျွန်​တော် အသုံးပြုထားတဲ့ Dictionary ​ကြောင့် ဖြစ်ပါလိမ့်မယ်။ Dictionaries တွေက ​myPOS[4][5]  ver3.0 က​နေ ယူထားပြီး myWord[6] tool နဲ့ ထုတ်ထားတာပါ။ myPOS ver3.0 ဆိုတာ ဆရာ ​ဒေါက်တာရဲ​ကျော်သူတို့ ​နေရာ​ပေါင်းစုံက​နေ အချိန်အ​တော်​ပေးပြီး စုထားတာ ဖြစ်တဲ့အတွက် သတ်ပုံ အမှန်​ရော အမှားပါ ​ရော​ထွေး​နေနိုင်ပါတယ်။
+ဒါက ကျွန်​တော် အသုံးပြုထားတဲ့ Dictionary ​ကြောင့် ဖြစ်ပါလိမ့်မယ်။ Dictionaries တွေက ​myPOS ver3.0[4] က​နေ ယူထားပြီး myWord[5] tool နဲ့ ထုတ်ထားတာပါ။ myPOS ver3.0 ဆိုတာ ဆရာ ​ဒေါက်တာရဲ​ကျော်သူတို့ ​နေရာ​ပေါင်းစုံက​နေ အချိန်အ​တော်​ပေးပြီး စုထားတာ ဖြစ်တဲ့အတွက် သတ်ပုံ အမှန်​ရော အမှားပါ ​ရော​ထွေး​နေနိုင်ပါတယ်။
 
 အက္ခရာ နဲ့ အသံထွက် အမှား​တွေ ( ဥပမာ ဂျင်းထည့်, ဘာဖစ်လဲ ) အတွက်က သတ်ပုံ Corpus နဲ့ ​သေချာ ထုတ်ထားတဲ့ dictionaries ​တွေရှိလာရင် အဆင်​ပြေပါမယ်။ [3] မှာလည်း ဆရာ​ ဒေါက်တာ ရဲ​ကျော်သူတို့ ကြိုးစားထားတာ​တွေ ရှိတာ​ကြောင့် ပို​ကောင်းတဲ့ dictionaries ​တွေ ရလာနိုင်ပါတယ်။
 
@@ -18,7 +18,7 @@ SymSpell ကို မြန်မာစာ အတွက် သုံးတာ �
 စာရိုက်မှားတာ​တွေ 
 ဥပမာ မှ ူးမတ်​​ငေနာပတိ -> မှူးမတ်​သေနာပတိ
 
-ဒါမျိုး​တွေ အတွက်က​တော့ တခြား deep learning approaches ​တွေ လိုဦးမယ် ထင်ပါတယ်။[7]
+ဒါမျိုး​တွေ အတွက်က​တော့ တခြား deep learning approaches ​တွေ လိုဦးမယ် ထင်ပါတယ်။[6]
 
 mySpellCorrect ကို သုံးမယ်ဆိုရင်​တော့ Word အတွက် အသုံးပြုမယ်ဆို ပိုအဆင်​ပြေပါတယ်။ Sentence ​တွေကို Input အ​နေနဲ့ ထည့်မယ်ဆိုရင် Word level ဖြတ်ထား​ပေးဖို့ လိုပါတယ်။ 
 
@@ -108,13 +108,11 @@ If you want to use any data or dictionary under ./data folder in your research a
 
 - [3] Mon, Ei & Kyaw Thu, Ye & Yu, Than & Oo, Aye. (2021). SymSpell4Burmese: Symmetric Delete Spelling Correction Algorithm (SymSpell) for Burmese Spelling Checking. 1-6. 10.1109/iSAI-NLP54397.2021.9678171. 
 
-- [4] Khin War War Htike, Ye Kyaw Thu, Zuping Zhang, Win Pa Pa, Yoshinori Sagisaka and Naoto Iwahashi, "Comparison of Six POS Tagging Methods on 10K Sentences Myanmar Language (Burmese) POS Tagged Corpus", at 18th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing 2017), April 17~23, 2017, Budapest, Hungary.*
+- [4] Zar Zar Hlaing, Ye Kyaw Thu, Myat Myo Nwe Wai, Thepchai Supnithi, Ponrudee Netisopakul, "Myanmar POS resource extension effects on automatic tagging methods", In Proceedings of the 15th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2020), Nov 18 to Nov 20, 2020, Bangkok, Thailand, pp. 189-194.*
 
-- [5] Zar Zar Hlaing, Ye Kyaw Thu, Myat Myo Nwe Wai, Thepchai Supnithi, Ponrudee Netisopakul, "Myanmar POS resource extension effects on automatic tagging methods", In Proceedings of the 15th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP 2020), Nov 18 to Nov 20, 2020, Bangkok, Thailand, pp. 189-194.*
+- [5] myWord: Syllable, Word and Phrase Segmenter for Burmese, Ye Kyaw Thu, Sept 2021, GitHub Link: https://github.com/ye-kyaw-thu/myWord**
 
-- [6] myWord: Syllable, Word and Phrase Segmenter for Burmese, Ye Kyaw Thu, Sept 2021, GitHub Link: https://github.com/ye-kyaw-thu/myWord**
-
-- [7] https://bhashkarkunal.medium.com/spelling-correction-using-deep-learning-how-bi-directional-lstm-with-attention-flow-works-in-366fabcc7a2f
+- [6] https://bhashkarkunal.medium.com/spelling-correction-using-deep-learning-how-bi-directional-lstm-with-attention-flow-works-in-366fabcc7a2f
 
 \* I used myPOS ver3 (without POS-tags) for building dictionaries
 
