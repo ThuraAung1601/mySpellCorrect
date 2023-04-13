@@ -64,14 +64,14 @@ optional arguments:
 You can also import to other programs as below:
 
 ```{r, engine='bash', count_lines}
-from mySpellCheck import ngramSpell
+from mySpellCorrect import ngramSpell
 sentence = "မ ဟုတ် ဘူးး"
 ngramSpell(sentence)
 
 >> ['မ ဟုတ် ဘူး']
 ```
 ```{r, engine='bash', count_lines}
-from mySpellCheck import mySymSpell
+from mySpellCorrect import mySymSpell
 sentence = "မ ဟုတ် ဘူးး"
 mySymSpell(sentence)
 
